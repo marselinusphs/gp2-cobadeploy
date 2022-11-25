@@ -18,6 +18,10 @@
     "password": "s0zEfh2frJAanaIBvZjh",
     "database": "railway",
     "host": "containers-us-west-80.railway.app",
+    "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      },
     "dialectOptions": {
       "connectTimeout": 60000000
     },
