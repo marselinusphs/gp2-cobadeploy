@@ -17,7 +17,7 @@
     "username": "root",
     "password": "s0zEfh2frJAanaIBvZjh",
     "database": "railway",
-    "host": "containers-us-west-80.railway.app:7239",
+    "host": "containers-us-west-80.railway.app",
     "dialect": "mysql"
   }
 }
