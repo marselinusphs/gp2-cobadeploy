@@ -18,6 +18,9 @@
     "password": "s0zEfh2frJAanaIBvZjh",
     "database": "railway",
     "host": "containers-us-west-80.railway.app",
+    "dialectOptions": {
+      "connectTimeout": 60000
+    },
     "dialect": "mysql"
   }
 }
