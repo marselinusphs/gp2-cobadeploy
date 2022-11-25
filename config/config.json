@@ -19,7 +19,7 @@
     "database": "railway",
     "host": "containers-us-west-80.railway.app",
     "dialectOptions": {
-      "connectTimeout": 60000
+      "connectTimeout": 600000
     },
     "dialect": "mysql"
   }
